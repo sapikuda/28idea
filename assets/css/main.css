@@ -1,0 +1,14 @@
+@charset "UTF-8";/*!
+ * 28idea main css
+ * Copyright 2021 28idea
+ */
+
+.logo{
+    width: 10%;
+}
+.content-links{
+    text-decoration: none;
+}
+.content-image{
+    margin: 10px;
+}
