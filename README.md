@@ -3,7 +3,7 @@
 28idea founded by 28 participants from Kizuna Group E Project 2013. We tells stories about disaster preparedness and response, volunteer activities, and friendship. 28 comes from the number of our members and IDEA means Information Disaster Education from Indonesia.
 This static website created as *memento* of Kizuna Group E Project 2013.
 
-The website can be accessed on [http://28idea.com](http://28idea.com).
+The website can be accessed on [https://28idea.com](https://28idea.com).
 
 It it build based on [Bootstrap](https://getbootstrap.com/).
 
